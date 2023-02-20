@@ -9,5 +9,5 @@ en este caso la URL. Ej: URL = "https://ulr_de_la página".
 o simplemente en el archivo main reemplace url = config('URL') por url = "https://ulr_de_la página".
 
 
-Finalmente se guardaran los datos de las tablas, en este caso se guardaron los datos de las primeras 10 tablas correspondientes
-a las primeras 10 páginas.
+Finalmente se guardaran los datos de las tablas, en este proyecto se guardaron en el archivo 'datos_totales' los datos de las primeras 10 tablas
+correspondientes a las primeras 10 páginas.
